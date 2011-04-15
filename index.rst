@@ -3,22 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Constitución de Chile's documentation!
-=================================================
+Propuesta de Constitución de Chile en desarrollo
+================================================
 
-Contents:
+Contenidos:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    
    01.rst
    02.rst
    03.rst
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
