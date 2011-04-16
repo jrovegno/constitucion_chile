@@ -1,10 +1,14 @@
-Capítulo XIII
-BANCO CENTRAL
+=============================
+Capítulo XIII : BANCO CENTRAL
+=============================
 
+Artículo 108°
+-------------
+Existirá un organismo autónomo, con patrimonio propio, de carácter técnico, denominado Banco Central, cuya composición, organización, funciones y atribuciones determinará una ley orgánica constitucional.
 
-Artículo 108.- Existirá un organismo autónomo, con patrimonio propio, de carácter técnico, denominado Banco Central, cuya composición, organización, funciones y atribuciones determinará una ley orgánica constitucional.
-
-Artículo 109.- El Banco Central sólo podrá efectuar operaciones con instituciones financieras, sean públicas o privadas. De manera alguna podrá otorgar a ellas su garantía, ni adquirir documentos emitidos por el Estado, sus organismos o empresas.
+Artículo 109°
+-------------
+El Banco Central sólo podrá efectuar operaciones con instituciones financieras, sean públicas o privadas. De manera alguna podrá otorgar a ellas su garantía, ni adquirir documentos emitidos por el Estado, sus organismos o empresas.
 
 Ningún gasto público o préstamo podrá financiarse con créditos directos o indirectos del Banco Central.
 
