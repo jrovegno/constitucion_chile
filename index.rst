@@ -6,6 +6,12 @@
 Propuesta de Constitución de Chile en desarrollo
 ================================================
 
+Para descargar las fuentes de esta Constitución: 
+`Repositorio en GitHub <https://github.com/jrovegno/constitucion_chile>`__
+
+Idea de hacer este proyecto en: 
+`Artículo en IdeasChile "Cambios Constitución chilena entre 1980 a 2005" <http://ideaschile.wordpress.com/2011/04/14/cambios-constitucion-chilena-entre-1980-a-2005/>`__
+
 Contenidos:
 
 .. toctree::
