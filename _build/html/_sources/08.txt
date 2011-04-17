@@ -1,24 +1,18 @@
+=====================================
 Capítulo VIII TRIBUNAL CONSTITUCIONAL 
+=====================================
 
-Artículo 92.- Habrá un Tribunal Constitucional integrado por diez miembros, designados de la siguiente forma: 
+Artículo 92°
+------------
+Habrá un Tribunal Constitucional integrado por diez miembros, designados de la siguiente forma: 
 a) Tres designados por el Presidente de la República.
-
 b) Cuatro elegidos por el Congreso Nacional. Dos serán nombrados directamente por el Senado y dos serán previamente propuestos por la Cámara de Diputados para su aprobación o rechazo por el Senado. Los nombramientos, o la propuesta en su caso, se efectuarán en votaciones únicas y requerirán para su aprobación del voto favorable de los dos tercios de los senadores o diputados en ejercicio, según corresponda.
+c) Tres elegidos por la Corte Suprema en una votación secreta que se celebrará en sesión especialmente convocada para tal efecto. Los miembros del Tribunal durarán nueve años en sus cargos y se renovarán por parcialidades cada tres. Deberán tener a lo menos quince años de título de abogado, haberse destacado en la actividad profesional, universitaria o pública, no podrán tener impedimento alguno que los inhabilite para desempeñar el cargo de juez, estarán sometidos a las normas de los artículos 58, 59 y 81, y no podrán ejercer la profesión de abogado, incluyendo la judicatura, ni cualquier acto de los establecidos en los incisos segundo y tercero del artículo 60. Los miembros del Tribunal Constitucional serán inamovibles y no podrán ser reelegidos, salvo aquel que lo haya sido como reemplazante y haya ejercido el cargo por un período menor a cinco años. Cesarán en sus funciones al cumplir 75 años de edad. En caso que un miembro del Tribunal Constitucional cese en su cargo, se procederá a su reemplazo por quien corresponda, de acuerdo con el inciso primero de este artículo y por el tiempo que falte para completar el período del reemplazado. El Tribunal funcionará en pleno o dividido en dos salas. En el primer caso, el quórum para sesionar será de, a lo menos, ocho miembros y en el segundo de, a lo menos, cuatro. El Tribunal adoptará sus acuerdos por simple mayoría, salvo los casos en que se exija un quórum diferente y fallará de acuerdo a derecho. El Tribunal en pleno resolverá en definitiva las atribuciones indicadas en los números 1º, 3º, 4º, 5º, 6º, 7º, 8º, 9º y 11º del artículo siguiente. Para el ejercicio de sus restantes atribuciones, podrá funcionar en pleno o en sala de acuerdo a lo que disponga la ley orgánica constitucional respectiva. Una ley orgánica constitucional determinará su organización, funcionamiento, procedimientos y fijará la planta, régimen de remuneraciones y estatuto de su personal.
 
-c) Tres elegidos por la Corte Suprema en una votación secreta que se celebrará en sesión especialmente convocada para tal efecto.
+Artículo 93°
+------------
+Son atribuciones del Tribunal Constitucional:
 
-Los miembros del Tribunal durarán nueve años en sus cargos y se renovarán por parcialidades cada tres. Deberán tener a lo menos quince años de título de abogado, haberse destacado en la actividad profesional, universitaria o pública, no podrán tener impedimento alguno que los inhabilite para desempeñar el cargo de juez, estarán sometidos a las normas de los artículos 58, 59 y 81, y no podrán ejercer la profesión de abogado, incluyendo la judicatura, ni cualquier acto de los establecidos en los incisos segundo y tercero del artículo 60.
-
-Los miembros del Tribunal Constitucional serán inamovibles y no podrán ser reelegidos, salvo aquel que lo haya sido como reemplazante y haya ejercido el cargo por un período menor a cinco años. Cesarán en sus funciones al cumplir 75 años de edad.
-
-En caso que un miembro del Tribunal Constitucional cese en su cargo, se procederá a su reemplazo por quien corresponda, de acuerdo con el inciso primero de este artículo y por el tiempo que falte para completar el período del reemplazado.
-
-El Tribunal funcionará en pleno o dividido en dos salas. En el primer caso, el quórum para sesionar será de, a lo menos, ocho miembros y en el segundo de, a lo menos, cuatro. El Tribunal adoptará sus acuerdos por simple mayoría, salvo los casos en que se exija un quórum diferente y fallará de acuerdo a derecho. El Tribunal en pleno resolverá en definitiva las atribuciones indicadas en los números 1º, 3º, 4º, 5º, 6º, 7º, 8º, 9º y 11º del artículo siguiente.
-Para el ejercicio de sus restantes atribuciones, podrá funcionar en pleno o en sala de acuerdo a lo que disponga la ley orgánica constitucional respectiva.
-
-Una ley orgánica constitucional determinará su organización, funcionamiento, procedimientos y fijará la planta, régimen de remuneraciones y estatuto de su personal.
-
-Artículo 93.- Son atribuciones del Tribunal Constitucional: 
 1º Ejercer el control de constitucionalidad de las leyes que interpreten algún precepto de la Constitución, de las leyes orgánicas constitucionales y de las normas de un tratado que versen sobre materias propias de estas últimas, antes de su promulgación;
 
 2º Resolver sobre las cuestiones de constitucionalidad de los autos acordados dictados por la Corte Suprema, las Cortes de Apelaciones y el Tribunal Calificador de Elecciones;
@@ -37,8 +31,7 @@ Artículo 93.- Son atribuciones del Tribunal Constitucional:
 
 9º Resolver sobre la constitucionalidad de un decreto o resolución del Presidente de la República que la Contraloría General de la República haya representado por estimarlo inconstitucional, cuando sea requerido por el Presidente en conformidad al artículo 99;
 
-10° Declarar la inconstitucionalidad de las organizaciones y de los movimientos o partidos políticos, como asimismo la responsabilidad de las personas que hubieran tenido participación en los hechos que motivaron la declaración de inconstitucionalidad, en conformidad a lo dispuesto en los párrafos sexto, séptimo y octavo del Nº 15º del artículo 19 de esta Constitución.
-Sin embargo, si la persona afectada fuera el Presidente de la República o el Presidente electo, la referida declaración requerirá, además, el acuerdo del Senado adoptado por la mayoría de sus miembros en ejercicio;
+10° Declarar la inconstitucionalidad de las organizaciones y de los movimientos o partidos políticos, como asimismo la responsabilidad de las personas que hubieran tenido participación en los hechos que motivaron la declaración de inconstitucionalidad, en conformidad a lo dispuesto en los párrafos sexto, séptimo y octavo del Nº 15º del artículo 19 de esta Constitución. Sin embargo, si la persona afectada fuera el Presidente de la República o el Presidente electo, la referida declaración requerirá, además, el acuerdo del Senado adoptado por la mayoría de sus miembros en ejercicio;
 
 11º Informar al Senado en los casos a que se refiere el artículo 53 número 7) de esta Constitución;
 
@@ -50,7 +43,7 @@ Sin embargo, si la persona afectada fuera el Presidente de la República o el Pr
 
 15º Calificar la inhabilidad invocada por un parlamentario en los términos del inciso final del artículo 60 y pronunciarse sobre su renuncia al cargo, y
 
-16° Resolver sobre la constitucionalidad de los decretos supremos, cualquiera sea el vicio invocado, incluyendo aquellos que fueren dictados en el ejercicio de la potestad reglamentaria autónoma del Presidente de la República cuando se refieran a materias que pudieran estar reservadas a la ley por mandato del artículo 63.
+16° Resolver sobre la constitucionalidad de los decretos supremos, cualquiera sea el vicio invocado, incluyendo aquellos que fueren dictados en el ejercicio de la potestad reglamentaria autónoma del Presidente de la República cuando se refieran a materias que pudieran estar reservadas a la ley por mandato del artículo 63. 
 
 En el caso del número 1º, la Cámara de origen enviará al Tribunal Constitucional el proyecto respectivo dentro de los cinco días siguientes a aquél en que quede totalmente tramitado por el Congreso.
 
@@ -95,7 +88,9 @@ El Tribunal Constitucional podrá apreciar en conciencia los hechos cuando conoz
 En los casos de los numerales 10º, 13º y en el caso del numeral 2º cuando sea requerido por una parte, corresponderá a una sala del Tribunal pronunciarse sin ulterior recurso, de su admisibilidad.
 
 
-Artículo 94.- Contra las resoluciones del Tribunal Constitucional no procederá recurso alguno, sin perjuicio de que puede, el mismo Tribunal, conforme a la ley, rectificar los errores de hecho en que hubiere incurrido.
+Artículo 94°
+------------
+Contra las resoluciones del Tribunal Constitucional no procederá recurso alguno, sin perjuicio de que puede, el mismo Tribunal, conforme a la ley, rectificar los errores de hecho en que hubiere incurrido.
 
 Las disposiciones que el Tribunal declare inconstitucionales no podrán convertirse en ley en el proyecto o decreto con fuerza de ley de que se trate.
 
